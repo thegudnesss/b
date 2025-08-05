@@ -1,0 +1,20 @@
+{
+  "anime": [
+    "Action", "Adventure", "Comedy", "Drama", "Fantasy", "Isekai", "Mecha", "Romance", "Shounen", "Slice of Life"
+  ],
+  "kino": [
+    "Action", "Thriller", "Drama", "Biography", "Romance", "Horror", "Sci-Fi", "Adventure", "Comedy"
+  ],
+  "serial": [
+    "Crime", "Mystery", "Family", "Historical", "Sitcom", "Thriller", "Drama", "Fantasy", "Documentary"
+  ],
+  "multfilm": [
+    "Kids", "Comedy", "Musical", "Educational", "Fantasy", "Adventure", "Superhero"
+  ],
+  "drama": [
+    "Romance", "Melodrama", "Youth", "War", "Historical", "Mystery"
+  ],
+  "boshqa": [
+    "Fan", "Short Film", "Experimental", "Documentary", "Biography"
+  ]
+}
