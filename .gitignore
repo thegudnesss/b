@@ -1,0 +1,76 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+.venv/
+ENV/
+env.bak/
+
+# IDE files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Logs
+*.log
+logs/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Env & config
+.env
+.env.*
+*.env
+config.json
+
+# Database dumps
+*.sqlite3
+*.db
+*.sql
+dump/
+
+# Byte-compiled / optimized / DLL files
+*.so
+*.dll
+*.dylib
+*.pyd
+
+# Test & coverage
+.pytest_cache/
+.tox/
+.coverage
+coverage.xml
+htmlcov/
+
+# Node (if using frontend build in project)
+node_modules/
+npm-debug.log
+yarn-error.log
+dist/
+build/
+
+# Migrations (if using Alembic or Django style)
+migrations/
+
+# Temporary files
+tmp/
+temp/
+
+# Backup files
+*.bak
+*.swp
+*.swo
+*.orig
+
+# Pycharm data
+*.iml
+
+# Mongo dump files
+dump/
