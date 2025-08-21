@@ -43,9 +43,3 @@ class MenuService:
 
 
 menu_service = MenuService()
-
-git add.
-
-git commit -m "Refactor MenuService and update menu handler"
-
-git push origin main
