@@ -19,7 +19,7 @@ bot: Bot = Bot(
     default=DefaultBotProperties(parse_mode=ParseMode.HTML)
 )
 
-log.info("Starting Gojira...")
+log.info("Starting bot...")
 
 # Dispatcher obyektini yaratamiz
 dp: Dispatcher = Dispatcher()

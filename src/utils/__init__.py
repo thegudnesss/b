@@ -1,8 +1,7 @@
-from .reader import read_json, write_json
+from .reader import JSONReader
 from .xp_manager import XPManager
 
 __all__ = [
-    "read_json",
-    "write_json",
+    "JSONReader"
     "XPManager",
 ]

@@ -11,7 +11,7 @@ class Settings(BaseSettings):
     logs_channel: int | None = None
 
     class Config:
-        env_file = "data/.env"
+        env_file = "data/config.example.env"
         env_file_encoding = "utf-8"
 
 
